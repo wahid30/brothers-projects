@@ -1,0 +1,17 @@
+.parent-header {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  gap: 15px;
+}
+.bg-custom-darkBlue {
+  background-color: #03506f;
+}
+.bg-custom-blue {
+  background-color: #91cbea;
+}
+.bg-custom-black {
+  background-color: #2c2d32;
+}
+.bg-custom-text-purple {
+  color: #9880e1;
+}
