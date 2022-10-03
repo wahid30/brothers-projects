@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+.custom-padding {
+  padding: 250px;
+}
+.custom-margin {
+  margin-top: 150px;
+}
+.bg-custom-black {
+  background-color: #2c2d32;
+}
